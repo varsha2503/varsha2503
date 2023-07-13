@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varsha</h1>
 <h3 align="center">An electrifying CSE student fueled by a burning passion for innovation, wielding programming as my creative tool to shape the digital landscape.</h3>
 
-<img align="right" alt="coding" width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img align="right" alt="coding" width=330 src="https://github.com/varsha2503/varsha2503/assets/95171666/92b0972c-edce-4dfa-9a6a-c9e3ce233414" />
 
 - 🌱 I’m currently learning **React Framework , Web development**
 
