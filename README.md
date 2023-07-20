@@ -39,7 +39,7 @@
 <h3 align='center'> 🔍 Located here </h3>
 <div align='center' mix-blend-mode= 'soft-light' > 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Varsha%20(%20Uttar%20Pradesh%20);&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Lucknow%20(%20Uttar%20Pradesh%20);&center=true&width=500&height=50">
 </p>
 </div>
 
